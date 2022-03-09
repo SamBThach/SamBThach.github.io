@@ -68,6 +68,8 @@
 										<li><a href="Projects.html">Projects</a></li>
 										<li><a href="CampusSafety.html">Student Campus Safety</a></li>
 										<li><a href="TidyTuesday.html">Tidy Tuesday Graphing</a></li>
+										<li><a href="Consultation.html">Consultation</a></li>
+										<li><a href="CausalDiagrams.html">Causal Diagrams</a></li>
 									</ul>
 									<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 									<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -81,6 +83,7 @@
 										<li class="icon solid fa-envelope"><a href="#">sam.thach@oit.edu</a></li>
 										<li class="icon solid fa-phone">(714) 266-8827</li>
 										<li class="icon solid fa-home">3201 Campus Dr.<br />
+
 										Klamath Falls, OR 97601</li>
 									</ul>
 								</section>
